@@ -1,0 +1,28 @@
+body {
+    background-color:whitesmoke; 
+}
+
+h1 {
+    color: #22736B;
+}
+
+.circled{
+    list-style-type: circle;
+}
+
+.testColor{
+    background-color: whitesmoke;
+    padding:1%;
+    margin:1%;
+}
+
+#red{
+    color: #BF0436;
+}
+
+#fuschia{
+    color: #BF0F61;
+}
+#purple{
+    color: #8679D9;
+}
